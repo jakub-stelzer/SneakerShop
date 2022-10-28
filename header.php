@@ -31,20 +31,20 @@
     
     <div class="col-12 nejvic">
         <div class="col-2 logo">    
-             <a href="http://sneakers-shop.local"><img src="http://sneakers-shop.local/wp-content/uploads/2022/10/360_F_136554899_bI9RjRJeAdCUoAgyIcNdMz8UvorxxohP.jpg" height="100px" width="100px" alt=""></a>
+             <a href="http://sneakers-shop.local"><img src="wp-content/uploads/2022/10/360_F_136554899_bI9RjRJeAdCUoAgyIcNdMz8UvorxxohP.jpg" height="100px" width="100px" alt=""></a>
         </div>
         <div class="col-6 linky">
             <div>
-                <a href="http://sneakers-shop.local/shop/">SHOP</a>
-                <a href="http://sneakers-shop.local/privacy-policy/">PRIVACY POLICY</a>
-                <a href="http://sneakers-shop.local/refund_returns/">REFUND LINK PAGE</a>
+                <a href="shop/">SHOP</a>
+                <a href="privacy-policy/">PRIVACY POLICY</a>
+                <a href="refund_returns/">REFUND LINK PAGE</a>
             </div>
         </div>
         <div class="col-3 vyhledavac">
              <?php get_search_form( ) ?>
         </div>
 		<div class="col-1 cart d-flex align-content-center">
-			<a href="http://sneakers-shop.local/cart/"><img src="http://sneakers-shop.local/wp-content/uploads/2022/10/shopping-cart.png" height="35px" width="35px" alt=""></a>
+			<a href="cart/"><img src="wp-content/uploads/2022/10/shopping-cart.png" height="35px" width="35px" alt=""></a>
         </div>
     </div>
 
